@@ -5,7 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon  src/index.js"
   },
   "author": "Farasat Abbas",
   "license": "ISC",
@@ -14,7 +14,7 @@
     "prettier": "^3.6.2"
   },
   "dependencies": {
-    "dotenv": "^17.2.2",
+    "dotenv": "^16.4.5",
     "express": "^5.1.0",
     "mongoose": "^8.18.1"
   }
